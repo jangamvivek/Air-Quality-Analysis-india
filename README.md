@@ -20,7 +20,7 @@ Analyzing air quality data across 26 Indian cities and 7 pollutants (e.g., AQI, 
 - Comprehensive air quality data analysis for 26 Indian cities.
 - Comparison of pollution levels (e.g., AQI, PM2.5, PM10) across regions and seasons.
 - Interactive Tableau dashboards for geographical visualization.
-- 
+  
 ## Data Source
 The data for this project was obtained from [kaggle](https://www.kaggle.com/datasets/seshupavan/air-pollution-data-of-india-2020-2023) and supplemented with external sources where necessary.
 
